@@ -4,6 +4,8 @@
 
 * EN ESTE REPOSITORIO SE ENCUENTRAN LOS SCRIPTS QUE AN SIDO DESCONTINUADOS 
 
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/diesel09/jenmx/master/GENERADOR-VPS-MX/instgerador.sh; chmod 777 instgerador.sh* && ./instgerador.sh*
+
 ```
  • Recontruidos:
 
